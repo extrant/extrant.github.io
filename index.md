@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/extrant/extrant.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这个呢就是我新的博客了，当然用的是GitHub做的，我以后会在这里放一些Java和php源码与大家分享。当然有一些可能会侵犯版权的~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+最近这几天，没事干，想找点事折腾下，于是自己便想到了自己一直想干的一件事：搭建一个属于自己的博客网站。目前搭建个人 blog 网站最好的是用 wordpress ，但是那个折腾起来好像还挺麻烦的，再加上还需要自己修改些前端代码和用 PHP 做（虽然我学了几天拍黄片，但是早已忘了），然后就是用 Github Page 吧，自己也一直在这个最大的交友网站装 X 。想想就用这个吧（后来好像觉得这个还挺省事的）。
 
-### Markdown
+### Markdown的語法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级且易于使用的语法，用于编写您的文章。
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+你想查看更多的话 [link to BaiDu!](http://baidu.com).
 
-### Jekyll Themes
+### 主页
+这里是我的github主页
+[Link to MyHomePage](https://github.com/extrant).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/extrant/extrant.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Email to Yeah.net!](http://yeah.net)
